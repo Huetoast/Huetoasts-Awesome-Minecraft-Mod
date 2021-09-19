@@ -1,0 +1,26 @@
+{
+  "group": "testestsetest",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "testestsetest:plasma"
+    },
+    "1": {
+      "item": "testestsetest:plasma"
+    },
+    "2": {
+      "item": "testestsetest:plasma"
+    },
+    "3": {
+      "item": "testestsetest:plasma"
+    }
+  },
+  "result": {
+    "item": "testestsetest:plasmatic_block",
+    "count": 1
+  }
+}

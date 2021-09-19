@@ -1,0 +1,13 @@
+{
+  "group": "testestsetest",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "testestsetest:asjn_planks"
+    }
+  ],
+  "result": {
+    "item": "testestsetest:asjn_button",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "testestsetest",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:command_block"
+    },
+    "2": {
+      "item": "minecraft:command_block"
+    },
+    "3": {
+      "item": "minecraft:command_block"
+    },
+    "5": {
+      "item": "minecraft:command_block"
+    }
+  },
+  "result": {
+    "item": "testestsetest:comadn_armor_boots",
+    "count": 1
+  }
+}

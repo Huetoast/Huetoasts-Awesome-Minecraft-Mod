@@ -1,0 +1,30 @@
+{
+  "group": "testestsetest",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:command_block"
+    },
+    "1": {
+      "item": "minecraft:command_block"
+    },
+    "2": {
+      "item": "minecraft:command_block"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "testestsetest:command_block_axe",
+    "count": 1
+  }
+}

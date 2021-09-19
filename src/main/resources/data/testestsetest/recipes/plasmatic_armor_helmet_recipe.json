@@ -1,0 +1,29 @@
+{
+  "group": "testestsetest",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "testestsetest:plasma"
+    },
+    "1": {
+      "item": "testestsetest:plasma"
+    },
+    "2": {
+      "item": "testestsetest:plasma"
+    },
+    "3": {
+      "item": "testestsetest:plasma"
+    },
+    "5": {
+      "item": "testestsetest:plasma"
+    }
+  },
+  "result": {
+    "item": "testestsetest:plasmatic_armor_helmet",
+    "count": 1
+  }
+}

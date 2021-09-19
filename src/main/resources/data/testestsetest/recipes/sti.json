@@ -1,0 +1,30 @@
+{
+  "group": "testestsetest",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "testestsetest:bruh"
+    },
+    "3": {
+      "item": "testestsetest:bruh"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "testestsetest:bruh"
+    },
+    "7": {
+      "item": "testestsetest:bruh"
+    }
+  },
+  "result": {
+    "item": "testestsetest:cake_pop_stick",
+    "count": 1
+  }
+}

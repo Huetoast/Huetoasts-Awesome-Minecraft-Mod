@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "testestsetest:items/command_block_sword"
+  }
+}

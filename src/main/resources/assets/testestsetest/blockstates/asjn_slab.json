@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "testestsetest:block/asjn_slab"
+    },
+    "type=top": {
+      "model": "testestsetest:block/asjn_slab_top"
+    },
+    "type=double": {
+      "model": "testestsetest:block/asjn_slab_full"
+    }
+  }
+}

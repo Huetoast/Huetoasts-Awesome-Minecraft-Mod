@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "testestsetest:blocks/asda",
+    "particle": "testestsetest:blocks/asda"
+  }
+}

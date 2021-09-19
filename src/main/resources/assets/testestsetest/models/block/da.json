@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "testestsetest:blocks/dsadsa",
+    "up": "testestsetest:blocks/asdasd",
+    "north": "testestsetest:blocks/sda",
+    "east": "testestsetest:blocks/sda",
+    "south": "testestsetest:blocks/sda",
+    "west": "testestsetest:blocks/sda",
+    "particle": "testestsetest:blocks/dsadsa"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "energyblade",
+    "customModelName": "Normal",
+    "name": "Infinity Sword",
+    "specialInfo": [
+      "Right Click to Summon Lightning"
+    ],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 100.0,
+    "enchantability": 1024,
+    "damageVsEntity": 64598.0,
+    "usageCount": 87690,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Plasma"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedInAir": {
+      "name": "InfinitySwordRightClickedInAir"
+    },
+    "onRightClickedOnBlock": {
+      "name": "InfinitySwordRightClickedInAir"
+    },
+    "onEntityHitWith": {
+      "name": "InfinitySwordLivingEntityIsHitWithTool"
+    }
+  }
+}

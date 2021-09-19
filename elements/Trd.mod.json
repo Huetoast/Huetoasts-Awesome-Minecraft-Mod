@@ -1,0 +1,21 @@
+{
+  "_fv": 24,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Trd",
+    "splashName": "Splash Potion of Trd",
+    "lingeringName": "Lingering Potion of Trd",
+    "arrowName": "Arrow of Trd",
+    "effects": [
+      {
+        "effect": {
+          "value": "CUSTOM:Afs"
+        },
+        "duration": 3600,
+        "amplifier": 1,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

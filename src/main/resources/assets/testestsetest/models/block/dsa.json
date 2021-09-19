@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "testestsetest:blocks/utp-smooth_stone4",
+    "up": "testestsetest:blocks/utp-smooth_stone4",
+    "north": "testestsetest:blocks/smoothstonefurnace",
+    "east": "testestsetest:blocks/utp-smooth_stone4",
+    "south": "testestsetest:blocks/utp-smooth_stone4",
+    "west": "testestsetest:blocks/utp-smooth_stone4",
+    "particle": "testestsetest:blocks/utp-smooth_stone4"
+  }
+}

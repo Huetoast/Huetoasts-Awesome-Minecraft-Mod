@@ -1,0 +1,26 @@
+{
+  "group": "testestsetest",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "testestsetest:asjn_planks"
+    },
+    "1": {
+      "item": "testestsetest:asjn_planks"
+    },
+    "2": {
+      "item": "testestsetest:asjn_planks"
+    },
+    "3": {
+      "item": "testestsetest:asjn_planks"
+    }
+  },
+  "result": {
+    "item": "testestsetest:xz",
+    "count": 1
+  }
+}

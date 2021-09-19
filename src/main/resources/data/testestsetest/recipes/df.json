@@ -1,0 +1,36 @@
+{
+  "group": "testestsetest",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 45",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "testestsetest:plasma"
+    },
+    "1": {
+      "item": "testestsetest:plasma"
+    },
+    "2": {
+      "item": "testestsetest:plasma"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "testestsetest:plasma"
+    },
+    "6": {
+      "item": "minecraft:stick"
+    },
+    "8": {
+      "item": "testestsetest:plasma"
+    }
+  },
+  "result": {
+    "item": "testestsetest:infinityhammer",
+    "count": 1
+  }
+}

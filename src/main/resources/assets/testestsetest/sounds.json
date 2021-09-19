@@ -1,0 +1,39 @@
+{
+  "me": {
+    "category": "music",
+    "subtitle": "subtitles.me",
+    "sounds": [
+      {
+        "name": "testestsetest:me-and-the-boys",
+        "stream": true
+      }
+    ]
+  },
+  "kirb": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "testestsetest:kirby_-_gourmet_race_remix",
+        "stream": false
+      }
+    ]
+  },
+  "tetr": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "testestsetest:original_tetris_theme_tetris_soundtrack",
+        "stream": false
+      }
+    ]
+  },
+  "jojo": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "testestsetest:jojos_bizarre_adventure_-_giornos_theme_giorno_approved___the_ultimate_jojo_cover",
+        "stream": false
+      }
+    ]
+  }
+}

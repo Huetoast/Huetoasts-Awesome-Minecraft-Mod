@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Plasma"
+      },
+      {
+        "value": "CUSTOM:Plasma"
+      },
+      {
+        "value": "CUSTOM:Plasma"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "CUSTOM:Plasma"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Plasma"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:INFINITYHAMMER"
+    },
+    "name": "df",
+    "namespace": "mod"
+  }
+}

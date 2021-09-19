@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "fsa",
+    "name": "bruh",
+    "description": "idk - Giornos Theme",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:jojo"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

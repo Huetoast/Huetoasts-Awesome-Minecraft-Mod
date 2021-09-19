@@ -1,0 +1,13 @@
+{
+  "group": "testestsetest",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:asjn_log"
+    }
+  ],
+  "result": {
+    "item": "testestsetest:asjn_planks",
+    "count": 4
+  }
+}

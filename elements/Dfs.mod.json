@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "dsa",
+    "name": "what",
+    "description": "tetri",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:tetr"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

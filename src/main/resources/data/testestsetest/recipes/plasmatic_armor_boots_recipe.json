@@ -1,0 +1,26 @@
+{
+  "group": "testestsetest",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "testestsetest:plasma"
+    },
+    "2": {
+      "item": "testestsetest:plasma"
+    },
+    "3": {
+      "item": "testestsetest:plasma"
+    },
+    "5": {
+      "item": "testestsetest:plasma"
+    }
+  },
+  "result": {
+    "item": "testestsetest:plasmatic_armor_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "testestsetest:block/asjn_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "testestsetest:block/asjn_log"
+    },
+    "axis=z": {
+      "model": "testestsetest:block/asjn_log",
+      "x": 90
+    }
+  }
+}

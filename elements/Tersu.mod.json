@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "Tersu",
+    "icon": {
+      "value": "Blocks.GILDED_BLACKSTONE"
+    },
+    "showSearch": true
+  }
+}

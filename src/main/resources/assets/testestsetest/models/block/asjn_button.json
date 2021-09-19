@@ -1,0 +1,6 @@
+{
+  "parent": "block/button",
+  "textures": {
+    "texture": "testestsetest:blocks/asjn_planks"
+  }
+}

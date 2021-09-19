@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:AsjnWood"
+      },
+      {
+        "value": "CUSTOM:AsjnLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "asjn_log",
+    "namespace": "forge"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "group": "testestsetest",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "testestsetest:asjn_planks"
+    },
+    "3": {
+      "item": "testestsetest:asjn_planks"
+    },
+    "4": {
+      "item": "testestsetest:asjn_planks"
+    },
+    "6": {
+      "item": "testestsetest:asjn_planks"
+    },
+    "7": {
+      "item": "testestsetest:asjn_planks"
+    },
+    "8": {
+      "item": "testestsetest:asjn_planks"
+    }
+  },
+  "result": {
+    "item": "testestsetest:asjn_stairs",
+    "count": 4
+  }
+}

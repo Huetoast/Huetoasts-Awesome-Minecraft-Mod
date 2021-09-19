@@ -1,0 +1,42 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "infinityhammer",
+    "customModelName": "Normal",
+    "name": "INFINITYHAMMER",
+    "specialInfo": [
+      "Right click on a to mine blocks"
+    ],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Special",
+    "harvestLevel": 80,
+    "efficiency": 100.0,
+    "attackSpeed": 1.0,
+    "enchantability": 647,
+    "damageVsEntity": 4.0,
+    "usageCount": 22000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Plasma"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedInAir": {
+      "name": "INFINITYHAMMERRightClickedOnBlock"
+    },
+    "onRightClickedOnBlock": {
+      "name": "INFINITYHAMMERRightClickedOnBlock"
+    },
+    "onBlockDestroyedWithTool": {
+      "name": "INFINITYHAMMERRightClickedOnBlock"
+    }
+  }
+}

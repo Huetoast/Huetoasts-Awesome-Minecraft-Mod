@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "testestsetest:blocks/adsf",
+    "up": "testestsetest:blocks/adsf",
+    "north": "testestsetest:blocks/scads",
+    "east": "testestsetest:blocks/scads",
+    "south": "testestsetest:blocks/scads",
+    "west": "testestsetest:blocks/scads",
+    "particle": "testestsetest:blocks/adsf"
+  }
+}
