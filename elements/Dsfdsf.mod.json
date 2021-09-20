@@ -10,7 +10,7 @@
         "value": "mountains"
       }
     ],
-    "worldGenType": "Normal world gen",
+    "worldGenType": "End like gen",
     "mainFillerBlock": {
       "value": "CUSTOM:Da"
     },

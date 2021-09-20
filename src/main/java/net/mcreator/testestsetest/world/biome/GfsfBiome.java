@@ -18,6 +18,7 @@ import net.minecraft.world.gen.placement.Placement;
 import net.minecraft.world.gen.placement.NoiseDependant;
 import net.minecraft.world.gen.placement.AtSurfaceWithExtraConfig;
 import net.minecraft.world.gen.foliageplacer.BlobFoliagePlacer;
+import net.minecraft.world.gen.feature.structure.StructureFeatures;
 import net.minecraft.world.gen.feature.TwoLayerFeature;
 import net.minecraft.world.gen.feature.Features;
 import net.minecraft.world.gen.feature.FeatureSpread;
@@ -67,6 +68,17 @@ public class GfsfBiome extends TestestsetestModElements.ModElement {
 				BiomeGenerationSettings.Builder biomeGenerationSettings = new BiomeGenerationSettings.Builder()
 						.withSurfaceBuilder(SurfaceBuilder.DEFAULT.func_242929_a(new SurfaceBuilderConfig(DaBlock.block.getDefaultState(),
 								FvfBlock.block.getDefaultState(), FvfBlock.block.getDefaultState())));
+				biomeGenerationSettings.withStructure(StructureFeatures.STRONGHOLD);
+				biomeGenerationSettings.withStructure(StructureFeatures.MINESHAFT);
+				biomeGenerationSettings.withStructure(StructureFeatures.PILLAGER_OUTPOST);
+				biomeGenerationSettings.withStructure(StructureFeatures.VILLAGE_PLAINS);
+				biomeGenerationSettings.withStructure(StructureFeatures.MANSION);
+				biomeGenerationSettings.withStructure(StructureFeatures.JUNGLE_PYRAMID);
+				biomeGenerationSettings.withStructure(StructureFeatures.DESERT_PYRAMID);
+				biomeGenerationSettings.withStructure(StructureFeatures.IGLOO);
+				biomeGenerationSettings.withStructure(StructureFeatures.MONUMENT);
+				biomeGenerationSettings.withStructure(StructureFeatures.SHIPWRECK);
+				biomeGenerationSettings.withStructure(StructureFeatures.OCEAN_RUIN_WARM);
 				biomeGenerationSettings.withFeature(GenerationStage.Decoration.VEGETAL_DECORATION, Feature.TREE
 						.withConfiguration((new BaseTreeFeatureConfig.Builder(new SimpleBlockStateProvider(AsjnLogBlock.block.getDefaultState()),
 								new SimpleBlockStateProvider(AsjnLeavesBlock.block.getDefaultState()),

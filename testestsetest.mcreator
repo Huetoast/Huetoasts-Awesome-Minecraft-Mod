@@ -1084,6 +1084,100 @@
       "locked_code": true,
       "ids": {},
       "registry_name": "sf"
+    },
+    {
+      "name": "YrdOnKeyPressed",
+      "type": "procedure",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yrd_on_key_pressed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Yrd",
+      "type": "keybind",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yrd"
+    },
+    {
+      "name": "YesyesCommandExecuted",
+      "type": "procedure",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yesyes_command_executed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Asdasd",
+      "type": "gamerule",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "asdasd",
+      "metadata": {
+        "type": "logic"
+      }
+    },
+    {
+      "name": "Fds",
+      "type": "enchantment",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fds"
+    },
+    {
+      "name": "Aa",
+      "type": "structure",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aa"
+    },
+    {
+      "name": "B",
+      "type": "structure",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "b"
     }
   ],
   "variable_elements": [],
@@ -1128,6 +1222,7 @@
       "block.testestsetest.da": "Da",
       "block.testestsetest.frtrt": "Frtrt",
       "item.testestsetest.repet_comadn_sword": "RepetComadn Sword",
+      "key.testestsetest.yrd": "Yrd",
       "item.testestsetest.gfdb.desc": "idk - Giornos Theme",
       "item.testestsetest.gfdb": "bruh",
       "block.testestsetest.xz": "Xz",
@@ -1145,6 +1240,7 @@
       "item.testestsetest.cakeball": "Cakeball",
       "block.testestsetest.asjn_fence": "Asjn Fence",
       "item.minecraft.splash_potion.effect.trd": "Splash Potion of Trd",
+      "gamerule.asdasd.description": "saf",
       "item.testestsetest.command_block_sword": "Command_Block Sword",
       "advancements.fs.descr": "why",
       "item.testestsetest.repet_comadn_hoe": "RepetComadn Hoe",
@@ -1173,6 +1269,7 @@
       "item.testestsetest.plasmatic_armor_leggings": "Plasmatic Leggings",
       "item.testestsetest.bruh": "Plastic",
       "item.testestsetest.command_block_shovel": "Command_Block Shovel",
+      "enchantment.testestsetest.fds": "Fds",
       "block.testestsetest.asjn_leaves": "Asjn Leaves",
       "item.testestsetest.plasmatic_armor_helmet": "Plasmatic Helmet",
       "item.testestsetest.dfs.desc": "tetri",
@@ -1195,6 +1292,7 @@
       "block.testestsetest.asjn_wood": "Asjn Wood",
       "item.testestsetest.repet_comadn_pickaxe": "RepetComadn Pickaxe",
       "item.testestsetest.repet_comadn_armor_boots": "RepetComadn Boots",
+      "gamerule.asdasd": "asf",
       "item.testestsetest.command_block_hoe": "Command_Block Hoe",
       "advancements.fs.title": "bruh",
       "item.testestsetest.sowrd": "Sowrd",
@@ -1219,6 +1317,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.testestsetest",
     "lockBaseModFiles": false
   },

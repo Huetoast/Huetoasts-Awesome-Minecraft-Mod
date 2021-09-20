@@ -41,9 +41,9 @@
     "creativeTab": {
       "value": "BUILDING_BLOCKS"
     },
-    "destroyTool": "Not specified",
+    "destroyTool": "pickaxe",
     "customDrop": {
-      "value": ""
+      "value": "CUSTOM:Bruh"
     },
     "dropAmount": 1,
     "useLootTableForDrops": false,

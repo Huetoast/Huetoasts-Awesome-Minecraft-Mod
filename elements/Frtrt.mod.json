@@ -10,11 +10,11 @@
     "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,
-    "plantType": "growapable",
-    "staticPlantGenerationType": "Flower",
+    "plantType": "normal",
+    "staticPlantGenerationType": "Grass",
     "suspiciousStewEffect": "SPEED",
     "suspiciousStewDuration": 5,
-    "growapableSpawnType": "Plains",
+    "growapableSpawnType": "Crop",
     "growapableMaxHeight": 10,
     "doublePlantGenerationType": "Flower",
     "customBoundingBox": false,
@@ -77,7 +77,11 @@
     "fireSpreadSpeed": 60,
     "jumpFactor": 1.0,
     "speedFactor": 1.0,
-    "canBePlacedOn": [],
+    "canBePlacedOn": [
+      {
+        "value": "CUSTOM:Da"
+      }
+    ],
     "frequencyOnChunks": 5,
     "spawnWorldTypes": [
       "CUSTOM:Dsfdsf"
