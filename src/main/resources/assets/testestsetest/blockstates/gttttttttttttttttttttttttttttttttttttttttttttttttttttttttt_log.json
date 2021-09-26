@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "testestsetest:block/gttttttttttttttttttttttttttttttttttttttttttttttttttttttttt_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "testestsetest:block/gttttttttttttttttttttttttttttttttttttttttttttttttttttttttt_log"
+    },
+    "axis=z": {
+      "model": "testestsetest:block/gttttttttttttttttttttttttttttttttttttttttttttttttttttttttt_log",
+      "x": 90
+    }
+  }
+}

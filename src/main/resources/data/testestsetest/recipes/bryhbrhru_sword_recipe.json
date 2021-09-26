@@ -1,0 +1,24 @@
+{
+  "group": "testestsetest",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "testestsetest:bryhbrhru"
+    },
+    "1": {
+      "item": "testestsetest:bryhbrhru"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "testestsetest:bryhbrhru_sword",
+    "count": 1
+  }
+}

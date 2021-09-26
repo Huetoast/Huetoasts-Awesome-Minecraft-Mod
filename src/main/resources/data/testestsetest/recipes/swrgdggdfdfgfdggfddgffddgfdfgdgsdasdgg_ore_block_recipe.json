@@ -1,0 +1,42 @@
+{
+  "group": "testestsetest",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "testestsetest:swrgdggdfdfgfdggfddgffddgfdfgdgsdasdgg_ingot"
+    },
+    "1": {
+      "item": "testestsetest:swrgdggdfdfgfdggfddgffddgfdfgdgsdasdgg_ingot"
+    },
+    "2": {
+      "item": "testestsetest:swrgdggdfdfgfdggfddgffddgfdfgdgsdasdgg_ingot"
+    },
+    "3": {
+      "item": "testestsetest:swrgdggdfdfgfdggfddgffddgfdfgdgsdasdgg_ingot"
+    },
+    "4": {
+      "item": "testestsetest:swrgdggdfdfgfdggfddgffddgfdfgdgsdasdgg_ingot"
+    },
+    "5": {
+      "item": "testestsetest:swrgdggdfdfgfdggfddgffddgfdfgdgsdasdgg_ingot"
+    },
+    "6": {
+      "item": "testestsetest:swrgdggdfdfgfdggfddgffddgfdfgdgsdasdgg_ingot"
+    },
+    "7": {
+      "item": "testestsetest:swrgdggdfdfgfdggfddgffddgfdfgdgsdasdgg_ingot"
+    },
+    "8": {
+      "item": "testestsetest:swrgdggdfdfgfdggfddgffddgfdfgdgsdasdgg_ingot"
+    }
+  },
+  "result": {
+    "item": "testestsetest:swrgdggdfdfgfdggfddgffddgfdfgdgsdasdgg_block",
+    "count": 1
+  }
+}

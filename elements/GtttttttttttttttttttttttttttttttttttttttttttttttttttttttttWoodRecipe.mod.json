@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:GtttttttttttttttttttttttttttttttttttttttttttttttttttttttttLog"
+      },
+      {
+        "value": "CUSTOM:GtttttttttttttttttttttttttttttttttttttttttttttttttttttttttLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GtttttttttttttttttttttttttttttttttttttttttttttttttttttttttLog"
+      },
+      {
+        "value": "CUSTOM:GtttttttttttttttttttttttttttttttttttttttttttttttttttttttttLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:GtttttttttttttttttttttttttttttttttttttttttttttttttttttttttWood"
+    },
+    "name": "gttttttttttttttttttttttttttttttttttttttttttttttttttttttttt_wood_recipe",
+    "namespace": "mod"
+  }
+}

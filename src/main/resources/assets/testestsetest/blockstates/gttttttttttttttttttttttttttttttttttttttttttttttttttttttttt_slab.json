@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "testestsetest:block/gttttttttttttttttttttttttttttttttttttttttttttttttttttttttt_slab"
+    },
+    "type=top": {
+      "model": "testestsetest:block/gttttttttttttttttttttttttttttttttttttttttttttttttttttttttt_slab_top"
+    },
+    "type=double": {
+      "model": "testestsetest:block/gttttttttttttttttttttttttttttttttttttttttttttttttttttttttt_slab_full"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "testestsetest",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "testestsetest:bryhbrhru_block"
+    }
+  ],
+  "result": {
+    "item": "testestsetest:bryhbrhru",
+    "count": 9
+  }
+}

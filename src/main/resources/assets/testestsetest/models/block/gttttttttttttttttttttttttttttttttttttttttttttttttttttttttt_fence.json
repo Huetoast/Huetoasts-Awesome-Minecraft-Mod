@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "testestsetest:blocks/gttttttttttttttttttttttttttttttttttttttttttttttttttttttttt_planks",
+    "particle": "testestsetest:blocks/gttttttttttttttttttttttttttttttttttttttttttttttttttttttttt_planks"
+  }
+}

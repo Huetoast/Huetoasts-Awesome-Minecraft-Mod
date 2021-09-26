@@ -1,0 +1,12 @@
+{
+  "group": "testestsetest",
+  "type": "minecraft:smelting",
+  "experience": 7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "testestsetest:swrgdggdfdfgfdggfddgffddgfdfgdgsdasdgg_ore"
+  },
+  "result": {
+    "item": "testestsetest:swrgdggdfdfgfdggfddgffddgfdfgdgsdasdgg_ingot"
+  }
+}

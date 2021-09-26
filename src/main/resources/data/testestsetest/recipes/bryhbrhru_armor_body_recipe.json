@@ -1,0 +1,39 @@
+{
+  "group": "testestsetest",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "testestsetest:bryhbrhru"
+    },
+    "2": {
+      "item": "testestsetest:bryhbrhru"
+    },
+    "3": {
+      "item": "testestsetest:bryhbrhru"
+    },
+    "4": {
+      "item": "testestsetest:bryhbrhru"
+    },
+    "5": {
+      "item": "testestsetest:bryhbrhru"
+    },
+    "6": {
+      "item": "testestsetest:bryhbrhru"
+    },
+    "7": {
+      "item": "testestsetest:bryhbrhru"
+    },
+    "8": {
+      "item": "testestsetest:bryhbrhru"
+    }
+  },
+  "result": {
+    "item": "testestsetest:bryhbrhru_armor_chestplate",
+    "count": 1
+  }
+}

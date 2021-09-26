@@ -1,0 +1,32 @@
+{
+  "group": "testestsetest",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "testestsetest:gttttttttttttttttttttttttttttttttttttttttttttttttttttttttt_planks"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "testestsetest:gttttttttttttttttttttttttttttttttttttttttttttttttttttttttt_planks"
+    },
+    "3": {
+      "item": "testestsetest:gttttttttttttttttttttttttttttttttttttttttttttttttttttttttt_planks"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "testestsetest:gttttttttttttttttttttttttttttttttttttttttttttttttttttttttt_planks"
+    }
+  },
+  "result": {
+    "item": "testestsetest:gttttttttttttttttttttttttttttttttttttttttttttttttttttttttt_fence",
+    "count": 3
+  }
+}

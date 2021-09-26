@@ -1,0 +1,13 @@
+{
+  "group": "testestsetest",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "testestsetest:swrgdggdfdfgfdggfddgffddgfdfgdgsdasdgg_block"
+    }
+  ],
+  "result": {
+    "item": "testestsetest:swrgdggdfdfgfdggfddgffddgfdfgdgsdasdgg_ingot",
+    "count": 9
+  }
+}

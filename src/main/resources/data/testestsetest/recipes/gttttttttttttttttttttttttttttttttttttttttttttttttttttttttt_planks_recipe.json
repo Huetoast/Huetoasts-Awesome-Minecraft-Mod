@@ -1,0 +1,13 @@
+{
+  "group": "testestsetest",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:gttttttttttttttttttttttttttttttttttttttttttttttttttttttttt_log"
+    }
+  ],
+  "result": {
+    "item": "testestsetest:gttttttttttttttttttttttttttttttttttttttttttttttttttttttttt_planks",
+    "count": 4
+  }
+}
